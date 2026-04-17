@@ -4,5 +4,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,redis,javascript,python,html,css,tailwind,c++,langchain" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=c++,langchain" alt="My Skills" />
   </a>
 </p>
